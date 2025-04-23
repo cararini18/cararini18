@@ -28,5 +28,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cararini18/cararini18/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/cararini18/cararini18/output/pacman-contribution-graph.svg">
 </picture>
-
-_Gerado com [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
